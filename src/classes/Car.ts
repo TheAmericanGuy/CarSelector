@@ -1,6 +1,6 @@
 // Importing Vehicle and Wheel classes
-import Vehicle from './Vehicle.js';
-import Wheel from './Wheel.js';
+import Vehicle from './Vehicle';
+import Wheel from './Wheel';
 
 // Car class that extends Vehicle class
 class Car extends Vehicle {
